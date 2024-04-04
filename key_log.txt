@@ -1,0 +1,1 @@
+Key.cmdKey.print_screen'\x16'Key.ctrl_lKey.enter
